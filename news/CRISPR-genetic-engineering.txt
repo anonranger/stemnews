@@ -1,0 +1,19 @@
+**CRISPR - A model for Genetic Engineering**
+
+*History of discovery of CRISPR*
+https://www.broadinstitute.org/what-broad/areas-focus/project-spotlight/crispr-timeline
+
+Source: https://en.wikipedia.org/wiki/CRISPR
+
+*Use for Gene Editing*
+
+A simple version of the CRISPR/Cas system, CRISPR/Cas9, has been modified to edit genomes. By delivering the Cas9 nuclease complexed with a synthetic guide RNA (gRNA) into a cell, the cell's genome can be cut at a desired location, allowing existing genes to be removed and/or new ones added.The Cas9-gRNA complex corresponds with the CAS III CRISPR-RNA complex in the accompanying diagram.
+
+CRISPR/Cas genome editing techniques have many potential applications, including medicine and crop seed enhancement. The use of CRISPR/Cas9-gRNA complex for genome editing was the AAAS's choice for breakthrough of the year in 2015.[18] Bioethical concerns have been raised about the prospect of using CRISPR for germline editing.
+
+*Organ Transplant*
+CRISPR may have applications in tissue engineering and regenerative medicine, such as by creating human blood vessels that lack expression of MHC class II proteins, which often cause transplant rejection.
+
+*Cancer Research*
+
+In 2016, the United States Food and Drug Administration (FDA) approved a clinical trial in which CRISPR would be used to alter T cells extracted from people with different kinds of cancer and then administer those engineered T cells back to the same people.
