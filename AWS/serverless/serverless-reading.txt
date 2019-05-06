@@ -1,0 +1,8 @@
+1. Build your first serverless app
+https://medium.com/the-node-js-collection/building-your-first-serverless-app-in-node-js-with-aws-lambda-s3-api-gateway-4d87e808d9cc
+
+2. Serverless Architecture - Martin Fowler
+https://martinfowler.com/articles/serverless.html
+
+3. Serverless is eating the stack
+https://read.acloud.guru/serverless-is-eating-the-stack-and-people-are-freaking-out-and-they-should-be-431a9e0db482
